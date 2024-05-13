@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: hwb(75 29% 21%);
 		font-size: 3.5em;
 	}
 
@@ -2848,7 +2848,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: hsl(77, 55%, 54%);
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
